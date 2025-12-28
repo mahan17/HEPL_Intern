@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#date{
+  color: rgb(95, 95, 229);
+}
+
+#time{
+  color: rgb(95, 95, 229);
+}
