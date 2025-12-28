@@ -9,7 +9,7 @@ function showweatherDetails(event) {
         return;
     }
 
-    const apiKey = 'ca619117c1af6f41b570d26672aa806e';
+    const apiKey = '';
     const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
     fetch(apiUrl)
